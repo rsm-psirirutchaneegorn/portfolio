@@ -24,21 +24,26 @@
 
 ## Projects
 ### ETL with Snowflake, SQL Project
-[Check it out]()
+[Project detail](https://github.com/oakpongphon/sql_proj)
 
 Extract, transform and load data from 4 different formats: csv, XML, postgres and Snowflake Marketplace deploying **Python** including **SQL** codes embedded inside to execute.
 
-![EEG Band Discovery]()
+### Regress Analysis the Case of the Hot Hand
+[Project detail](https://github.com/oakpongphon/Regression_Analysis/tree/main/Case_NBA)
 
-### Analysis of Piers under Seismic Loading, Civil Engineering Project
-[Check it out]()
-
-Utilized Finite Element Method and linear regression to evaluate Siriluk Bridge’s capacity regarding concrete and rebar deterioration to withstand earthquakes.
+This project delves into the fascinating concept of the 'hot hand' in basketball, a phenomenon where players are perceived to have periods of exceptional performance. Using a mix of regression analysis and hypothesis testing, the project offers insights into whether the 'hot hand' phenomenon can be statistically validated in professional basketball.
 
 ### Optimization of Quant Croissant Production at Rady Tasty Pastry
-[Check it out](https://github.com/oakpongphon/BusOperation_RadytastePastry)
+[Project detail](https://github.com/oakpongphon/BusOperation_RadytastePastry)
 
 Developed a simulation model using **Python** to identify the optimal production quantity (q) that maximizes profitability while mitigating the risk of surplus or shortage fo Rady Tasty Pastry facing a recurring dilemma concerning the production of their popular Quant Croissants – an imbalance between daily production and customer demand. 
 
+### Regression Coursework1: Linear, classification and Recommendation
+[Project detail](https://github.com/oakpongphon/Regression_Analysis/tree/main/Regression_Coursework1)
 
+This courework provides a high-level view of the various analytical techniques and models that I explored in this coursework, spanning regression, classification, and recommendation systems, with a specific focus on the gaming domain.
 
+### Regression Coursework2: Lasso
+[Project detail](https://github.com/oakpongphon/Regression_Analysis/tree/main/Regression_Coursework2)
+
+In this coursework, I engaged in an in-depth exploration of Lasso regression, a powerful technique in linear regression analysis used for variable selection and regularization.
