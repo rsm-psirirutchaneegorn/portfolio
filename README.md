@@ -23,6 +23,11 @@
 - Provided onboarding training to 6 new colleagues and 2 interns, including data analytics techniques associated with pivot table, advanced functions in Excel, and general preparation for new roles.
 
 ## Projects
+### Shared Social Responsibility: A Field Experiment in Pay-What-You-Want Pricing and Charitable Giving
+[Project detail]()
+
+Evaluated the effectiveness of various pricing strategies, including flat-rate pricing (FR), flat-rate pricing with 50% of revenue donated to charity (FR charity), Name Your Own Price (NYOP), and Name Your Own Price with 50% of revenue to charity (NYOP charity). Utilizing **Python**, I conducted *hypothesis testing*, *means comparison*, *data manipulation*, and *visualizations* to assess the outcomes.
+
 ### ETL with Snowflake, SQL Project
 [Project detail](https://github.com/oakpongphon/sql_proj)
 
