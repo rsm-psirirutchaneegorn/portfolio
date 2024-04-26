@@ -9,7 +9,7 @@
   > GPA 3.10/4.00
 
 ## Work Experience
-**Data Analyst @ Thermo Fisher Scientific - Capstone project, US (_Mar 2024 - Jun 2024_)**
+**Data Analyst @ Thermo Fisher Scientific - Capstone project, US (_Mar 2024 - Jun 2024_)** \
 An on-going capstone project with Thermo Fisher Scientific: Batch Size Scale Up Opportunities with Low E&O Risk.
 - Demand Forecasting: Analyzed demand patterns to identify products that could benefit from an increase in batch size, providing valuable insights for production planning.
 - Inventory Data Analysis: Conducted a comprehensive examination of historical and current inventory data, focusing on Excess and Obsolete (E&O) metrics to determine trends and evaluate past scale-up outcomes.
