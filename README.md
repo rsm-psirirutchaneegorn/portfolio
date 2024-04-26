@@ -16,7 +16,7 @@ An on-going capstone project with Thermo Fisher Scientific: Batch Size Scale Up 
 - Production and Capacity Assessment: Investigated production process capabilities and limitations, considering manufacturing flexibility, to assess the feasibility of scaling up batch sizes without compromising efficiency.
 - Financial Impact Assessment: Performed a detailed cost analysis, encompassing production, storage, and potential waste, to understand the financial implications of increasing batch sizes.
 - Market and Customer Insights: Analyzed market trends and customer preferences to ensure that scale-up efforts align with consumer demands and market dynamics, driving a customer-centric approach to production scaling.
-- 
+  
 **Data Analyst @ ZORTOUT, Thailand (_Apr 2023 - Jul 2023_)**
 - Delivered a 25% boost in customer’s response rates by optimizing and evaluating the roll-out of a marketing campaign implementing machine learning models to selectively target customers.
 - Achieved an 8% increase in monthly profit through a new pricing structure. Used SQL to extract, manipulate, and analyze data from relational databases to segment customers based on historical transaction volume.
@@ -38,6 +38,11 @@ client’s requirements and project execution were aligned on tracks by setting 
 
 
 ## Projects
+### Customer Targeting with Machine Learning
+[Project detail](https://github.com/oakpongphon/Targeting_messages_usingML)
+
+Utilized machine learning techniques to optimize customer targeting in marketing campaigns. Implemented logistic regression, neural networks, and random forests to improve profitability and Return on Marketing Expenditure (ROME) for high-end steakhouse and mobile app promotions.
+
 ### Shared Social Responsibility: A Field Experiment in Pay-What-You-Want Pricing and Charitable Giving
 [Project detail]()
 
