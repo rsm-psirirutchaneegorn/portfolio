@@ -41,7 +41,7 @@ client’s requirements and project execution were aligned on tracks by setting 
 ### Customer Targeting with Machine Learning
 [Project detail](https://github.com/oakpongphon/Targeting_messages_usingML)
 
-Utilized machine learning techniques to optimize customer targeting in marketing campaigns. Implemented logistic regression, neural networks, and random forests to improve profitability and Return on Marketing Expenditure (ROME) for high-end steakhouse and mobile app promotions.
+Utilized machine learning techniques to optimize customer targeting in marketing campaigns. Implemented **logistic regression**, **neural networks**, and **random forests** to improve profitability and Return on Marketing Expenditure (ROME) for high-end steakhouse and mobile app promotions.
 
 ### Shared Social Responsibility: A Field Experiment in Pay-What-You-Want Pricing and Charitable Giving
 [Project detail]()
