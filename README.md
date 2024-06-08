@@ -18,23 +18,12 @@ An on-going capstone project with Thermo Fisher Scientific: Batch Size Scale Up 
 - Market and Customer Insights: Analyzed market trends and customer preferences to ensure that scale-up efforts align with consumer demands and market dynamics, driving a customer-centric approach to production scaling.
   
 **Data Analyst @ ZORTOUT, Thailand (_Apr 2023 - Jul 2023_)**
-- Delivered a 25% boost in customer’s response rates by optimizing and evaluating the roll-out of a marketing campaign implementing machine learning models to selectively target customers.
-- Achieved an 8% increase in monthly profit through a new pricing structure. Used SQL to extract, manipulate, and analyze data from relational databases to segment customers based on historical transaction volume.
-- Developed Tableau dashboards to maximize sales team’s performance, resulting in a 5% MoM increase in sales.
-- Delivered 5 projects, 50% higher than usual amount. Collaborated with 3 cross-functional teams. Assured both
-client’s requirements and project execution were aligned on tracks by setting up workflows leveraging Jira and Miro.
-- Generated a yearly saving by $10K. Initiated automation to improve data extraction efficiency by Excel Power Query.
 
-**Business & Marketing Data Analyst @ UBONNANAPHAN, Thailand (_Nov 2020 - Mar 2023_)**
-- Increased yearly revenue by $100K and improved the performance and efficiency of the business by cutting down manual hours by 10%. Pioneered a data-driven Point of Sale (POS) software to track and store sales in real-time.
-- Conducted descriptive analysis on data from 10,000 products to identify future promotions, quantify demand and optimize sales campaigns. Utilized such data when settling with 20 manufacturers to diminish production costs by 5%.
-- Analyzed 7.2M transactions using SQL to lead marketing campaign for work boots, rising monthly revenue by 10%.
-- Reduced 30% of unused products by monitoring stocks of 10K products by Tableau. Enhanced sustainability efforts.
+
+**Business Analytics @ UBONNANAPHAN, Thailand (_Nov 2020 - Mar 2023_)**
+
 
 **Cost Engineer Analyst @ AECOM, Thailand (_Aug 2019 - Sep 2020_)**
-- Examined quantities used by contractors for the largest mixed-used project in Southeast Asia, One Bangkok. Identified a $5M disparity between what the contractors had claimed and actual material usage, saving this sum.
-- Improved work efficiency by 200%. Created dynamic Excel budget reports using advanced formulas and dashboards.
-- Provided onboarding training to 6 new colleagues and 2 interns, including data analytics techniques associated with pivot table, advanced functions in Excel, and general preparation for new roles.
 
 
 ## Projects
